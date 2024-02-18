@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am studying Computer Science at KIT and working as Computer Vision Intern at ZEISS Innovation Lab in Karlsruhe. Broadly speaking, I am interested in theory of computation, machine learning and discrete mathematics.
+I am studying Computer Science at KIT and working part time at ZEISS Innovation Lab in Karlsruhe. Broadly speaking, I am interested in theoretical computer science, machine learning and discrete mathematics.
